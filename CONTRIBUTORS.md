@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Muh. Naofal Mufid
+- Photo: https://avatars3.githubusercontent.com/u/56185652?s=460&v=4
+- Location: Wonosobo, Indonesia
+- Bio: 💻  Web Developer . 💻 Linux enthusias .
+- Github: https://github.com/valnoval
+***
 
